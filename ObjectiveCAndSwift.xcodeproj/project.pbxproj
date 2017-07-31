@@ -13,6 +13,7 @@
 		7B05950F1F2F7DB900EF1D65 /* ObjectiveCAndSwift.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7B05950D1F2F7DB900EF1D65 /* ObjectiveCAndSwift.xcdatamodeld */; };
 		7B0595111F2F7DB900EF1D65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B0595101F2F7DB900EF1D65 /* Assets.xcassets */; };
 		7B0595141F2F7DB900EF1D65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B0595121F2F7DB900EF1D65 /* LaunchScreen.storyboard */; };
+		7B05951C1F2F7DD100EF1D65 /* SwiftGetText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B05951B1F2F7DD100EF1D65 /* SwiftGetText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B0595101F2F7DB900EF1D65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B0595131F2F7DB900EF1D65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B0595151F2F7DB900EF1D65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B05951B1F2F7DD100EF1D65 /* SwiftGetText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftGetText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		7B0594FA1F2F7DB800EF1D65 = {
 			isa = PBXGroup;
 			children = (
+				7B05951B1F2F7DD100EF1D65 /* SwiftGetText.swift */,
 				7B0595051F2F7DB800EF1D65 /* ObjectiveCAndSwift */,
 				7B0595041F2F7DB800EF1D65 /* Products */,
 			);
@@ -142,6 +145,7 @@
 				7B05950F1F2F7DB900EF1D65 /* ObjectiveCAndSwift.xcdatamodeld in Sources */,
 				7B0595091F2F7DB800EF1D65 /* ViewController.swift in Sources */,
 				7B0595071F2F7DB800EF1D65 /* AppDelegate.swift in Sources */,
+				7B05951C1F2F7DD100EF1D65 /* SwiftGetText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
